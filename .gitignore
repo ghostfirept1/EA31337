@@ -17,3 +17,4 @@
 # Ignores configuration files.
 src/**.ini
 src/**.set
+.env
